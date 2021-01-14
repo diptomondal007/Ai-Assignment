@@ -1,3 +1,6 @@
+# The added dataset is short and it is a dummy dataset.
+# so the prediction will work for the words which exist in the dataset
+
 import pandas as pd
 
 df = pd.read_csv("dataset/next_word.csv")
